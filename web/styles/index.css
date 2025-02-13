@@ -12,7 +12,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(0deg, darkslategrey, darkcyan);
+    background: linear-gradient(0deg, rgb(1, 1, 1), rgb(44, 44, 44));
     padding: 10px;
 }
 
@@ -29,14 +29,14 @@
 .todo-list {
     width: 100%;
     max-width: 540px;
-    background: #fff;
+    background: #ffffff14;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
 
 .todo-list h2 {
-    color: #002765;
+    color: #ffffff;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
@@ -70,7 +70,7 @@ button {
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: brown;
+    background: rgb(40, 162, 255);
     color: white;
     border-radius: 30px;
     font-size: 16px;
